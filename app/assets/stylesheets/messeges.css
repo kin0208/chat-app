@@ -86,7 +86,6 @@
 
 .message {
   margin: 10px 0 0 0;
-  /* margin-top: 10px; */
 }
 
 .upper-message{
@@ -102,7 +101,6 @@
   color: #999;
   font-size: 12px;
   padding-left: 10px;
-  /* margin-left: 10px ; */
 }
 
 .lower-message {
